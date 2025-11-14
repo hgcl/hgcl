@@ -2,8 +2,8 @@ Hey, I'm Clara — a tinkerer lost in the middle of the French countryside. I us
 
 Some of my projects:
 
-- [The Missing Banksy](https://the-missing-banksy.vercel.app/): an online treasure hunt
+- [The Missing Banksy](https://the-missing-banksy.vercel.app/): online treasure hunt
 - [Life Under Control](https://shop.clarale.com/): e-commerce for printable planners
-- [UI library](https://ui-library-hgcl.vercel.app): the UI library of Life Under Control
-- [Eau de poisson (FR)](https://eaudepoisson.com/): my slow travel blog
-- [Color Contrast](https://contrast.pages.dev/): create accessible color palettes in a few clicks
+- [UI library](https://ui-library-hgcl.vercel.app): UI library of Life Under Control
+- [Eau de poisson](https://eaudepoisson.com/): my personal travel blog (in French)
+- [Color Contrast](https://contrast.pages.dev/): tool to create accessible color palettes in a few clicks
