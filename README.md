@@ -5,5 +5,6 @@ Some of my projects:
 - [The Missing Banksy](https://the-missing-banksy.vercel.app/): online treasure hunt
 - [Life Under Control](https://shop.clarale.com/): e-commerce for printable planners
 - [UI library](https://ui-library-hgcl.vercel.app): UI library of Life Under Control
+- [Cain's Jawbone](https://cains-jawbone.hgcl.workers.dev/): 100-page murder mystery book
 - [Eau de poisson](https://eaudepoisson.com/): my personal travel blog (in French)
 - [Color Contrast](https://contrast.pages.dev/): tool to create accessible color palettes in a few clicks
