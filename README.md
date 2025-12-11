@@ -8,3 +8,7 @@ Some of my projects:
 - [Cain's Jawbone](https://cains-jawbone.hgcl.workers.dev/): solve the famous murder mystery online
 - [Eau de poisson](https://eaudepoisson.com/): my personal travel blog (in French)
 - [Color Contrast](https://contrast.pages.dev/): tool to create accessible color palettes in a few clicks
+
+Contributing to:
+- [activist.org](https://github.com/activist-org/): platform making it safer to engage in activism
+- [cartes.app](https://codeberg.org/cartes/): user-friendly alternative to Google Maps
