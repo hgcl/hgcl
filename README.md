@@ -11,4 +11,4 @@ Some of my projects:
 
 Contributing to:
 - [activist.org](https://github.com/activist-org/): platform making it safer to engage in activism
-- [cartes.app](https://codeberg.org/cartes/): user-friendly alternative to Google Maps
+- [cartes.app](https://codeberg.org/cartes/): open-source and user-friendly alternative to Google Maps
