@@ -10,5 +10,5 @@ Some of my projects:
 - [Color Contrast](https://contrast.pages.dev/): tool to create accessible color palettes in a few clicks
 
 Contributing to:
-- [activist.org](https://github.com/activist-org/): platform making it safer to engage in activism
-- [cartes.app](https://codeberg.org/cartes/): open-source and user-friendly alternative to Google Maps
+- [activist.org](https://github.com/activist-org/): platform making it safer to engage in activism (Vue.js)
+- [cartes.app](https://codeberg.org/cartes/): open-source and user-friendly alternative to Google Maps (Next.js)
